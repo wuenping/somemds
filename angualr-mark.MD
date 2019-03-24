@@ -6,6 +6,7 @@
 ## 按业务划分service  ng g s  biz/someservice
 ## 状态管理
 
+## subscribe 
 
 
 # awesome pipeline 
